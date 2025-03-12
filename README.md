@@ -1,5 +1,7 @@
 # Legacy Sinhala Fonts
 
+![legacy-fonts](https://github.com/user-attachments/assets/2d972ea6-daec-4631-b768-1840a2cdfbed)
+
 This repository is a curated collection of popular legacy Sinhala fonts. The fonts included here have been aggregated from various sources available online. Please note that I do not own any copyright to the fonts hosted in this repository; this is simply an effort to gather and preserve these resources for easier access and use.
 
 ### Fonts Included:
